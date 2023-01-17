@@ -1,6 +1,7 @@
-# Praktikum11
 # Pertemuan 15
-![image](https://user-images.githubusercontent.com/93815689/212864898-21491766-d8f6-4f81-81c5-cf40e429abcc.png)
+
+<img width="960" alt="o1" src="https://user-images.githubusercontent.com/115542704/212914657-56c4108f-f6a0-4607-841c-269b3821b489.png">
+
 ### Penjelasan
 !pip install pandas digunakan untuk menginstall package pandas di python. Package pandas digunakan untuk memanipulasi data dalam bentuk tabel (dataframe) dan digunakan
 untuk data analysis. Fungsi dari package pandas sangat luas, seperti melakukan operasi pada data, mengimport dan mengeksport data dari berbagai format, dan lainnya.
